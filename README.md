@@ -45,4 +45,4 @@ The notebook is set up to use GPU if it is available.
 
 ## Acknowledgements
 
-I am grateful to AWS for awarding me the AWS AI & Machine Learning Scholarhip to pursue the nanodegree in "AI Programming with Python" through Udacity. This Jupyter notebook represents one of the final projects I undertook as part of the requirements to complete the nanodegree.
+I am grateful to AWS for awarding me the AWS AI & Machine Learning Scholarhip to pursue the nanodegree in "AI Programming with Python" through Udacity. This Jupyter notebook represents one of two final projects I undertook as part of the requirements to complete the nanodegree.
